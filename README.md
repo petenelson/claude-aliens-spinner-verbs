@@ -1,4 +1,4 @@
-# claude-aliens-spinner-verbs
+# Claude Code Aliens Spinner Verbs
 Custom spinnerVerbs for Claude Code with quotes from the Aliens movie franchise
 
 ## How To Use
